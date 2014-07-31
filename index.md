@@ -21,8 +21,6 @@ title: Postwork
 
 {% include ruby_rails/rails_review.md %}
 
-{% include ruby_rails/rails_advanced.md %}
-
 {% include ruby_rails/books.md %}
 
 # JavaScript
